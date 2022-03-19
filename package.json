@@ -1,0 +1,26 @@
+{
+  "name": "social-media-clone",
+  "version": "1.0.0",
+  "description": "Small project for a portfolio example",
+  "main": "app.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakhri-albari/social-media-clone.git"
+  },
+  "author": "Fakhri Albari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fakhri-albari/social-media-clone/issues"
+  },
+  "homepage": "https://github.com/fakhri-albari/social-media-clone#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
